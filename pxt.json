@@ -13,6 +13,6 @@
     ],
     "card": {
         "name": "로보독 사족로봇",
-        "imageUrl": "https://raw.githubusercontent.com/junilab/test-robodog/main/icon.png"
+        "imageUrl": "..//icon.png"
   }
 }
